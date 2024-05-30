@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1yikwyakwi2jhfmdfb5ywccsk4h37izgxouy7frq",
+  "Issue Number": "9",
+  "Client": {
+    "Name": "Pewresearch",
+    "Region": "United States",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.pewresearch.org/publications/",
+    "Social Media": "https://www.pewresearch.org/publications/",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "DATADAO is built upon technical expertise and utilizes proprietary programs and advanced tools to provide customized car data packaging services to clients. Our team boasts extensive experience and proficiency in utilizing cutting-edge tools such as go-graphsplit and singularity to ensure efficient and accurate data packaging. Our service process encompasses the following key points:\r\n\r\nTechnical Expertise: Our team possesses rich technical expertise in utilizing advanced tools. By leveraging tools like go-graphsplit and singularity, we ensure the efficiency and accuracy of data packaging. These tools aid us in processing and packaging client-provided data to meet the storage requirements of the Filecoin network.\r\n\r\nData Processing Flow: We employ proprietary programs to segment, package, and compress client-provided data, ultimately generating ZIP files ranging from 28-32GB in size to align with the storage requirements of the Filecoin network. Through these services, we effectively assist clients in processing and preparing data for storage and usage on the Filecoin network.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The purpose of the Pew Research Center is to collect and analyze data from around the world. They explore a variety of topics such as politics, social media, news, economics, online privacy, religion, and demographic trends. They engage in nonpartisan, nonpartisan research and analysis while making their raw data available to the public. Simply register on the site to access the data. When using the data, you need to indicate that the data comes from the Pew Research Center and state that Pew is not responsible for other data conclusions.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.pewresearch.org/publications/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), IPFS, Shipping hard drives, Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02984282 | Zhengzhou, Henan \r\nf02894875 | Nanchang, Jiangxi\r\nf0427989 | Qingdao, Shandon\r\nf02200472 | Chengdu, Sichuan\r\nf02942808 | Jiangmen, Guangdong\r\nf02951064 | Hangzhou, Zhejiang\r\nf01025366 | Qingdao, Shandong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "512TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-05-30 03:13:38.722321411 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1yikwyakwi2jhfmdfb5ywccsk4h37izgxouy7frq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
