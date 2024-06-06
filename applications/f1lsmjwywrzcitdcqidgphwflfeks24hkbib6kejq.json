@@ -35,15 +35,25 @@
     "Weekly Allocation": "300TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-06-06 02:20:05.687505402 UTC",
+    "Validated By": "DaYouGroup",
     "Active": true,
-    "Updated At": "2024-06-04 14:45:39.462476871 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-06-06 02:20:05.687509839 UTC",
+    "Active Request ID": "60e55f72-38d5-4f24-90fd-c5cfa8319bea",
     "On Chain Address": "f1lsmjwywrzcitdcqidgphwflfeks24hkbib6kejq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "60e55f72-38d5-4f24-90fd-c5cfa8319bea",
+      "Request Type": "First",
+      "Created At": "2024-06-06 02:20:05.687511970 UTC",
+      "Updated At": "2024-06-06 02:20:05.687513368 UTC",
+      "Active": true,
+      "Allocation Amount": "300TiB",
+      "Signers": []
+    }
+  ]
 }
