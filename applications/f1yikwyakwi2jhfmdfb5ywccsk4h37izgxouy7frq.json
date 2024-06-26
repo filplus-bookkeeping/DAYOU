@@ -35,12 +35,12 @@
     "Weekly Allocation": "512TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-05-30 09:09:15.987171237 UTC",
     "Validated By": "DaYouGroup",
     "Active": true,
-    "Updated At": "2024-06-06 02:15:25.723778993 UTC",
-    "Active Request ID": "c550b865-9510-4116-a33f-2b07e6dede44",
+    "Updated At": "2024-06-06 03:00:03.948825166 UTC",
+    "Active Request ID": "b974f136-f728-4155-8049-c6a4d8af96bc",
     "On Chain Address": "f1yikwyakwi2jhfmdfb5ywccsk4h37izgxouy7frq",
     "Multisig Address": "false",
     "edited": false
@@ -93,6 +93,15 @@
           "Message CID": "bafy2bzaceceeni4lp5657ivib3ddf2thztym6qwlkehphuzpbda2t7wkrr3fo"
         }
       ]
+    },
+    {
+      "ID": "b974f136-f728-4155-8049-c6a4d8af96bc",
+      "Request Type": "Refill",
+      "Created At": "2024-06-06 03:00:03.948832696 UTC",
+      "Updated At": "2024-06-06 03:00:03.948834237 UTC",
+      "Active": true,
+      "Allocation Amount": "1.45PiB",
+      "Signers": []
     }
   ]
 }
