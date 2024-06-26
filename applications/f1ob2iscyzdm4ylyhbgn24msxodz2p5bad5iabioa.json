@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "ID": "f1ob2iscyzdm4ylyhbgn24msxodz2p5bad5iabioa",
+  "Issue Number": "1",
+  "Client": {
+    "Name": "Shenzhen Wenming Technology Co., Ltd",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "www.imxpw.com",
+    "Social Media": "www.imxpw.com",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Wenming Technology is a young team that gathers outstanding talents from various majors. Focusing on the visual field for more than 10 years, he has excellent creativity, imagination, and rich experience, and has created many influential works in the industry. We adhere to the concept of meeting customer requirements and exceeding customer expectations. Our works have won repeated praise and awards, which makes us more determined to explore and pursue on the visual road, never stop moving forward, and are determined to become the most customer-satisfied original 3D vision in the industry. supplier.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Company videos, video materials, video highlights, finished videos, some video files abandoned by customers, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Yes, I am a data preparer and this is my first time applying",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.aliyundrive.com/s/6iXMhx2GsiU",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02274508   HK   H&W     zcli@vip.qq.com\r\nf02127382   AU   IndeCom   kingkabs@yahoo.com\r\nf02040772   UK   HB   ken00happy@outlook.com\r\nf02320270   US   R1   Jimmy0352@hotmail.com",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 5,
+    "Weekly Allocation": "100T"
+  },
+  "Lifecycle": {
+    "State": "ReadyToSign",
+    "Validated At": "2024-05-27 07:13:48.479349183 UTC",
+    "Validated By": "DaYouGroup",
+    "Active": true,
+    "Updated At": "2024-05-27 07:13:48.479354419 UTC",
+    "Active Request ID": "271351cb-64b1-457b-b167-c9fe6e176d6f",
+    "On Chain Address": "f1ob2iscyzdm4ylyhbgn24msxodz2p5bad5iabioa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "271351cb-64b1-457b-b167-c9fe6e176d6f",
+      "Request Type": "First",
+      "Created At": "2024-05-27 07:13:48.479356472 UTC",
+      "Updated At": "2024-05-27 07:13:48.479357722 UTC",
+      "Active": true,
+      "Allocation Amount": "50TiB",
+      "Signers": []
+    }
+  ]
+}
