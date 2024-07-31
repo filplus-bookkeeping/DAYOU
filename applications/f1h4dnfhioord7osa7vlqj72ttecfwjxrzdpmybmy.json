@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-05-30 01:43:44.880112253 UTC",
     "Validated By": "DaYouGroup",
-    "Active": true,
-    "Updated At": "2024-07-31 03:13:53.762547075 UTC",
-    "Active Request ID": "40c62a3a-1a3d-41f6-b18e-01a894ccaa43",
+    "Active": false,
+    "Updated At": "2024-07-31 04:00:07.650107682 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1h4dnfhioord7osa7vlqj72ttecfwjxrzdpmybmy",
     "Multisig Address": "false",
     "edited": false
