@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1yebmv52zjxjotrrpce5yih6xey5yupq6ii7revy",
+  "Issue Number": "31",
+  "Client": {
+    "Name": "Ximeng",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "http://www.theyxy.com/",
+    "Social Media": "",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Guangzhou Ximeng Information Technology Co., Ltd. is a creative film and television agency integrating promotional film shooting and production, commercial film shooting and production, short video creation, photography and videography, and equipment rental. Over the years, with creativity as the weapon and professionalism as the sword, we have overcome obstacles all the way, cut through the last ray of darkness before dawn, and ushered in a brighter future for ourselves. Let every film come alive, make every boutique shine, make every product exceed its value, make every cooperation sincere and comfortable, and make every success a higher level!",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "We need a lot of material to provide to our post-production personnel for use, so we often arrange photographers to shoot some related material, such as urban roads, rural fields, mountain scenery, the vastness of the sea, etc. Video material, save Use it in our video library, so that we can respond to various customer requirements!",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1. **Data Collection**\r\n   - **Data Source Identification**: Manually label and differentiate existing disks to identify publicly storable data.\r\n   - **Automation Tools**:\r\n     - **SQL Queries**: Used for databases such as MySQL and PostgreSQL.\r\n     - **API**: Use tools like Postman or Python's `requests` library to fetch real-time data.\r\n     - **ETL Tools (Extract, Transform, Load)**: Tools like Apache NiFi, Talend, or Airbyte can automate and scale the data extraction process.\r\n\r\n2. **Data Import**\r\n   - **Storage**: Store data in the appropriate system based on its format and size:\r\n     - **Relational Databases**: Such as MySQL, PostgreSQL, or SQLite (for structured data).\r\n     - **NoSQL Databases**: Such as MongoDB or Cassandra (for semi-structured or unstructured data).\r\n   - **Automation**: Use ETL/ELT pipelines (e.g., Apache Airflow) to automate the data import process, ensuring regular and consistent data loading.\r\n   - **IPFS**: Tools like Lotus or Boost are required for this.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://pan.baidu.com/s/1My2nSW4_flParnwwp4a7dQ?pwd=szzx \r\nExtraction code: szzx",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02051716\tHerndon\r\nf02079257\tNew York\r\nf02027952\tLondon\r\nf01971675\tTokyo\r\nf01991416\tHongKong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 6,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-10-25 03:38:32.462987031 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1yebmv52zjxjotrrpce5yih6xey5yupq6ii7revy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
