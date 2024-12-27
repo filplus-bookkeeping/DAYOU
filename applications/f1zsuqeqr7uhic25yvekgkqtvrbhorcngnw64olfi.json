@@ -35,11 +35,11 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-12-27 07:20:38.670844574 UTC",
+    "State": "Granted",
+    "Validated At": "2024-12-27 07:23:07.129857704 UTC",
     "Validated By": "DaYouGroup",
     "Active": true,
-    "Updated At": "2024-12-27 07:20:38.670848576 UTC",
+    "Updated At": "2024-12-27 07:23:07.129854076 UTC",
     "Active Request ID": "3fa75cfc-03ac-4dd8-bce2-40100a45f527",
     "On Chain Address": "f1zsuqeqr7uhic25yvekgkqtvrbhorcngnw64olfi",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-12-27 07:20:38.670851344 UTC",
       "Updated At": "2024-12-27 07:20:38.670913473 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "250TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "DaYouGroup",
+          "Signing Address": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
+          "Created At": "2024-12-27 07:23:05.520000000 UTC",
+          "Message CID": "bafy2bzacebwryskyz5s4uk5vipeyx7vsabpnznwr3qjljf7kenemkkvoyaoli"
+        }
+      ]
     }
   ]
 }
