@@ -35,15 +35,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "KYCRequested",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-01-17 06:41:37.690236388 UTC",
+    "Validated By": "DaYouGroup",
     "Active": true,
-    "Updated At": "2025-01-17 06:31:35.598165311 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-01-17 06:41:37.690241490 UTC",
+    "Active Request ID": "1760abf1-1687-4828-94c6-b37ed7db686f",
     "On Chain Address": "f1mykpdhhpxakcalfgpjyhwjzebrvsnt5reiyab5y",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "1760abf1-1687-4828-94c6-b37ed7db686f",
+      "Request Type": "First",
+      "Created At": "2025-01-17 06:41:37.690244038 UTC",
+      "Updated At": "2025-01-17 06:41:37.690245879 UTC",
+      "Active": true,
+      "Allocation Amount": "375TiB",
+      "Signers": []
+    }
+  ]
 }
